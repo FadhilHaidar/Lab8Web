@@ -90,6 +90,16 @@ Halaman edit tampil seperti reuni teman lama. Data barang muncul lebih dulu, lal
 
 <img width="1272" height="795" alt="image" src="https://github.com/user-attachments/assets/e685d410-1f80-412d-9804-91720bb55496" />
 
+<img width="898" height="844" alt="image" src="https://github.com/user-attachments/assets/7cc973fe-aa58-4c63-bc94-7152110d1c4c" />
+
+<img width="1080" height="872" alt="image" src="https://github.com/user-attachments/assets/94ca3de2-99cb-4146-8745-6989a6de5800" />
+
+<img width="1473" height="768" alt="image" src="https://github.com/user-attachments/assets/d3b60f86-f357-478b-951e-ce981fa62faf" />
+
+<img width="736" height="726" alt="image" src="https://github.com/user-attachments/assets/d95d27c0-cca0-4b36-ba29-a02c77b44f2a" />
+
 **d. DELETE: hapus.php**
 
 Menghapus data selalu punya sensasi dramatis. Tapi di CRUD, tombol hapus hanya menghilangkan baris di database dan file gambar. Tidak ada baper.
+
+![Uploading image.png…]()
