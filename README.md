@@ -102,4 +102,18 @@ Halaman edit tampil seperti reuni teman lama. Data barang muncul lebih dulu, lal
 
 Menghapus data selalu punya sensasi dramatis. Tapi di CRUD, tombol hapus hanya menghilangkan baris di database dan file gambar. Tidak ada baper.
 
-![Uploading image.png…]()
+<img width="702" height="911" alt="image" src="https://github.com/user-attachments/assets/1bb4dd33-4df8-4c69-9878-20f3d4b214b0" />
+
+## Hasil
+
+<img width="957" height="322" alt="image" src="https://github.com/user-attachments/assets/5bd8d029-d88a-4055-bfa7-9986296845b4" />
+
+<img width="958" height="601" alt="image" src="https://github.com/user-attachments/assets/459e0779-1ca1-4591-a31e-3b03f50488dc" />
+
+<img width="957" height="610" alt="image" src="https://github.com/user-attachments/assets/be5bb8c8-7c0e-468d-9f96-9b259267732c" />
+
+<img width="957" height="659" alt="image" src="https://github.com/user-attachments/assets/84f4897a-6a81-4c3d-9628-9bb0c7a05bc8" />
+
+<img width="956" height="650" alt="image" src="https://github.com/user-attachments/assets/d3db9af6-bd74-40c8-ae52-bcd7e213e59b" />
+
+<img width="1513" height="365" alt="image" src="https://github.com/user-attachments/assets/ba5d258a-98da-484b-a417-61488bb13311" />
