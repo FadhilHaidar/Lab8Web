@@ -76,10 +76,19 @@ Halaman form ini adalah tempat barang baru lahir. Saya memasukkan semua input ya
 
 <img width="938" height="916" alt="image" src="https://github.com/user-attachments/assets/c03b4c8a-061d-4236-9d0c-ad4574337c4d" />
 
+<img width="1240" height="805" alt="image" src="https://github.com/user-attachments/assets/55cca6fd-17fc-4ec3-b6c7-5149927fadeb" />
+
+<img width="1112" height="772" alt="image" src="https://github.com/user-attachments/assets/8333ace8-209c-4b25-be54-bba470e06376" />
 
 **c. UPDATE: ubah.php**
 
 Halaman edit tampil seperti reuni teman lama. Data barang muncul lebih dulu, lalu kita perbaiki bagian mana yang salah ketik atau berubah. Gambar pun bisa diganti atau dibiarkan tetap.
+
+<img width="763" height="945" alt="image" src="https://github.com/user-attachments/assets/5f5a4b93-619d-439b-9b5c-fb6b1a210cf4" />
+
+<img width="786" height="910" alt="image" src="https://github.com/user-attachments/assets/cce06210-cfd3-4008-a817-97b407147021" />
+
+<img width="1272" height="795" alt="image" src="https://github.com/user-attachments/assets/e685d410-1f80-412d-9804-91720bb55496" />
 
 **d. DELETE: hapus.php**
 
