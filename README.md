@@ -46,11 +46,13 @@ Kolom tambahan seperti deskripsi dan tanggal masuk membuat tampilan datanya jadi
 
   Bagian ini seperti kenalan pertama kali: PHP harus menyapa MySQL lewat koneksi. File koneksi.php saya isi dengan kode sederhana untuk menyambungkan keduanya.
 
-a. koneksi.php
-
 <img width="515" height="726" alt="image" src="https://github.com/user-attachments/assets/2561b2d1-9b40-48cc-9466-c3674a725442" />
 
-b. index.php
+**3. Membuat Halaman CRUD**
+
+**a. READ: index.php**
+
+Halaman ini menampilkan tabel data barang. Saya menata tampilannya dengan Bootstrap supaya terlihat rapi, seperti meja makan yang sudah dilap sebelum dipakai. Ada tombol Tambah, Edit, dan Hapus yang berjajar manis.
 
 <img width="923" height="916" alt="image" src="https://github.com/user-attachments/assets/2642b032-8d5b-4e01-afae-d71c3031ef76" />
 
@@ -62,21 +64,18 @@ b. index.php
 
 <img width="883" height="226" alt="image" src="https://github.com/user-attachments/assets/69e172f1-e64d-495e-8865-b4bc8bbd6fd4" />
 
-c. tambah.php
-
-d. ubah.php
-
-e. hapus.php
-
-**3. Membuat Halaman CRUD**
-
-**a. READ: index.php**
-
-Halaman ini menampilkan tabel data barang. Saya menata tampilannya dengan Bootstrap supaya terlihat rapi, seperti meja makan yang sudah dilap sebelum dipakai. Ada tombol Tambah, Edit, dan Hapus yang berjajar manis.
-
 **b. CREATE: tambah.php**
 
 Halaman form ini adalah tempat barang baru lahir. Saya memasukkan semua input yang diperlukan, termasuk upload foto. Validasi file saya lakukan supaya tidak ada yang nekat upload foto KW atau file aneh.
+
+<img width="784" height="949" alt="image" src="https://github.com/user-attachments/assets/5f95129b-165e-459e-8085-9188eca02a7e" />
+
+<img width="1074" height="917" alt="image" src="https://github.com/user-attachments/assets/e2af2cd2-d9fd-4bdd-915b-052e5da68878" />
+
+<img width="1240" height="837" alt="image" src="https://github.com/user-attachments/assets/e79eea49-f754-4d2f-94b7-0cc220178b97" />
+
+<img width="938" height="916" alt="image" src="https://github.com/user-attachments/assets/c03b4c8a-061d-4236-9d0c-ad4574337c4d" />
+
 
 **c. UPDATE: ubah.php**
 
